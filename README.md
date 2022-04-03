@@ -11,7 +11,10 @@
 # About Me
 
 - I'm a Production Systems Developer at Focusrite Audio Engineering
-- I enjoy creating web apps :globe_with_meridians: and fiddling with audio :notes:
+- Create web apps :globe_with_meridians:
+- Automate tasks :robot:
+- Create fun tools :hammer:
+- Fiddle with audio :notes:
 
 # Languages & Tools
 
