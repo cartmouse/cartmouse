@@ -39,6 +39,9 @@
   <a href="https://html.com/html5/">
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="50" />
   </a>
+  <a href="https://crossbar.io">
+    <img src="https://crossbar.io/static/img/gen/crossbar_icon.svg" width="50" />
+  </a>
   <a href="https://git-scm.com/">
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="50" />
   </a>
