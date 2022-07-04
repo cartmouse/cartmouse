@@ -9,7 +9,6 @@
 
 # About Me
 
-- I'm a Production Systems Developer at Focusrite Audio Engineering
 - Create apps :electron:
 - Automate tasks :robot:
 - Develop fun tools :hammer:
