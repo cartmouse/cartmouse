@@ -24,16 +24,16 @@
   </div>
 
   <div>
+    <img alt="Vite" src="https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+    <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black" />
+  </div>
+
+  <div>
     <img alt="Tauri" src="https://img.shields.io/badge/-Tauri-04A8B8?style=flat-square&logo=tauri&logoColor=white" />
     <img alt="Electron" src="https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=electron&logoColor=white" />
     <img alt="NodeJS" src="https://img.shields.io/badge/-NodeJS-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
     <img alt="C#/.NET" src="https://img.shields.io/badge/-C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
     <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  </div>
-
-  <div>
-    <img alt="Vite" src="https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
-    <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black" />
   </div>
 
   <div>
