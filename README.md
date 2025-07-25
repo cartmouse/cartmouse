@@ -3,9 +3,9 @@
   # Tom Cartwright
   cartmouse
   
-  Creative Programmer | Software Engineer
+  Creative Technologist | Audio Person
 
-  Driven by a love of using technology to craft experiences and applications that enhance people's lives
+  Using technology to create joyful experiences and applications that enhance people's lives
 
   [![](https://img.shields.io/badge/-Website-9cc5a1)](https://tom-cartwright.com)
   [![](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tom-cartwright97/)
